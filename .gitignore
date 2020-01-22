@@ -1,0 +1,18 @@
+# IDE files and virtual environment
+venv/
+.venv/
+.idea/
+env/
+*.log
+*.pot
+*.pyc
+.vscode
+postgres.txt
+.vscode/* 
+!.vscode/settings.json 
+!.vscode/tasks.json 
+!.vscode/launch.json 
+!.vscode/extensions.json 
+.history
+
+stunnel/
